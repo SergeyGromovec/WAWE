@@ -8,7 +8,8 @@
 
 body {
     font-family: 'Roboto Condensed', sans-serif;
-    background-color: #000000;
+    /* background-color: #000000; */
+    background-color: #24c33e;
     color: #FFFFFF;
 }
 
@@ -18,4 +19,15 @@ body {
 
 .container {
     max-width: var(--container-width);
+    padding: var(--container-padding);
+    margin: 0 auto;
+}
+
+
+
+/* Header */
+
+.header {
+    min-height: 1080px;
+    background: linear-gradient(180deg, #01353E 0%, rgba(51, 51, 51, 0.595076) 31.64%, rgba(51, 51, 51, 0.222586) 74.35%, rgba(51, 51, 51, 0) 99.87%);
 }
