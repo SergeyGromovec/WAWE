@@ -52,4 +52,13 @@ body {
     padding-left: 185px;
 }
 
+.home-heading {
+    padding-top: 341px;
+    color: #0D302C;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 200px;
+    line-height: 235px;
+    text-align: center;
 
+}
