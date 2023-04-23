@@ -30,7 +30,7 @@ body {
 /* Header */
 
 .header {
-    border: 1px solid red;
+    border: 1px solid rgb(234, 255, 0);
     padding-top: 17px;
     min-width: 1080px;
     /* border: 20px solid red; */
